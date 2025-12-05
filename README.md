@@ -5,7 +5,7 @@ The project demonstrates SQL querying, analytics, date-time functions, filtering
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The assignment uses **two tables:**
 
@@ -33,7 +33,7 @@ The assignment uses **two tables:**
 
 ---
 
-## 🧠 Task Summary
+ Task Summary
 
 The SQL assignment includes the following objectives:
 
@@ -48,22 +48,22 @@ The SQL assignment includes the following objectives:
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - SQL (SQLite syntax for execution)
 - Window functions
 - Date and time manipulation
 - Git & GitHub for version tracking
 
----
+
 
 ## 📷 Execution Screenshots
 
 Screenshots of executed queries and outputs are included for verification.
 
----
 
-## 📂 Files Included
+
+ Files Included
 
 | File | Description |
 |------|-------------|
@@ -73,20 +73,13 @@ Screenshots of executed queries and outputs are included for verification.
 
 ---
 
-## 🧑‍💻 Author
+ Author
 
 **Ayush Raj**  
-📍 BIT Mesra  
-🎓 Data • Analytics • SQL • Databases  
+BIT Mesra  
+ Data • Analytics • SQL • Databases  
 
----
 
-## ⭐ Feedback & Contribution
-
-This is an academic exercise — however, suggestions or improvements are welcome.  
-Feel free to open an **issue** or submit a **pull request**.
-
----
 
 ### 🔗 Connect on GitHub:  
 👉 *Star the repo if you found it useful!*  
